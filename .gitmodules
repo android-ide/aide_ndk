@@ -10,3 +10,6 @@
 [submodule "platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.6"]
 	path = platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.6
 	url = git@github.com:hkratz/platform_prebuilts_gcc_linux-x86_host_i686-linux-glibc2.7-4.6.git
+[submodule "ndk-prebuilt"]
+	path = ndk-prebuilt
+	url = git@github.com:hkratz/ndk-arm-prebuilt.git
