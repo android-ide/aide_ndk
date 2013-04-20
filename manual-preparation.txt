@@ -1,0 +1,5 @@
+#install libraries needed for cross compilation
+xapt -a armel -S precise -m --mirror http://ports.ubuntu.com/ libtinfo-dev
+
+# make /bin/sh point to bash
+dpkg-reconfigure dash
