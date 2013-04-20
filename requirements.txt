@@ -1,0 +1,5 @@
+- curl
+- bison
+- texinfo
+- xapt -a armel -S precise -m --mirror http://ports.ubuntu.com/ libtinfo-dev
+- rsync
