@@ -1,0 +1,9 @@
+[submodule "platform/development"]
+	path = platform/development
+	url = git@github.com:hkratz/platform_development.git
+[submodule "platform/ndk"]
+	path = platform/ndk
+	url = git@github.com:hkratz/platform_ndk.git
+[submodule "platform/prebuilts/tools"]
+	path = platform/prebuilts/tools
+	url = git@github.com:hkratz/platform_prebuilts_tools.git
