@@ -1,18 +1,18 @@
 [submodule "platform/development"]
 	path = platform/development
-	url = git@github.com:hkratz/platform_development.git
+	url = git@github.com:android-ide/platform_development.git
 [submodule "platform/ndk"]
 	path = platform/ndk
-	url = git@github.com:hkratz/platform_ndk.git
+	url = git@github.com:android-ide/platform_ndk.git
 [submodule "platform/prebuilts/tools"]
 	path = platform/prebuilts/tools
-	url = git@github.com:hkratz/platform_prebuilts_tools.git
+	url = git@github.com:android-ide/platform_prebuilts_tools.git
 [submodule "ndk-prebuilt"]
 	path = ndk-prebuilt
-	url = git@github.com:hkratz/ndk-arm-prebuilt.git
+	url = git@github.com:android-ide/ndk-arm-prebuilt.git
 [submodule "platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.6"]
 	path = platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.6
-	url = git@github.com:hkratz/platform_prebuilts_gcc_linux-x86_host_i686-linux-glibc2.7-4.6.git
+	url = git@github.com:android-ide/platform_prebuilts_gcc_linux-x86_host_i686-linux-glibc2.7-4.6.git
 [submodule "busybox"]
 	path = busybox
-	url = git@github.com:hkratz/busybox.git
+	url = git@github.com:android-ide/busybox.git
