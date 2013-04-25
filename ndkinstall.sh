@@ -8,5 +8,3 @@ export PATH=$TOP
 cd $TOP/..
 tar xjf $1
 touch ./.installed
-rm $1
-exit 0
