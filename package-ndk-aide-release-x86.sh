@@ -19,6 +19,3 @@ done
 tar cjf $TOP/ndk-aide-release/android-ndk-aide-linux-x86-$RELEASE.tar.bz2 android-ndk-aide/
 cp $TOP/busybox/busybox $TOP/ndk-aide-release/busybox-x86-$RELEASE
 cp $TOP/ndkinstall.sh $TOP/ndk-aide-release/ndkinstall.sh-$RELEASE
-python $TOP/googlecode_upload.py -s "Busybox for x86" -p aide-support $TOP/ndk-aide-release/busybox-x86-$RELEASE
-python $TOP/googlecode_upload.py -s "AIDE NDK Support installation script" -p aide-support $TOP/ndk-aide-release/ndkinstall.sh-$RELEASE
-python $TOP/googlecode_upload.py -s "NDK for x86 (static)" -p aide-support $TOP/ndk-aide-release/android-ndk-aide-linux-x86-$RELEASE.tar.bz2
