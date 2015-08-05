@@ -11,7 +11,7 @@ tar xjf  $TOP/ndk-release/android-ndk-aide-linux-x86.tar.bz2
 rm -rf android-ndk-aide/{samples,docs,tests}
 for toolchain in android-ndk-aide/toolchains/*
 do
-  if [ "${toolchain}" != "android-ndk-aide/toolchains/x86-4.6" ]
+  if [ "${toolchain}" != "android-ndk-aide/toolchains/arm-linux-androideabi-4.9" -a "${toolchain}" != "android-ndk-aide/toolchains/x86-4.9" ]
   then
     rm -r ${toolchain}
   fi
