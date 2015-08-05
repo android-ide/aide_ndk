@@ -6,4 +6,4 @@ NDK=$TOP/platform/ndk
 NDK_LOGFILE=/tmp/ndk-build.log
 export NDK NDK_LOGFILE NUM_JOBS
 rm $NDK_LOGFILE
-$NDK/build/tools/package-release.sh --prebuilt-dir=$TOP/ndk-prebuilt --release=aide --systems=linux-x86 --arch=x86,arm --llvm-version-list= --toolchains=arm-linux-androideabi-4.9,x86-4.9 --out-dir=$TOP/ndk-release
+$NDK/build/tools/package-release.sh --prebuilt-dir=$TOP/ndk-prebuilt --release=aide --systems=linux-x86 --arch=x86,arm --llvm-version-list= --toolchains=arm-linux-androideabi-4.9,x86-4.9 --reduced --out-dir=$TOP/ndk-release
