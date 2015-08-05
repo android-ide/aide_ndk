@@ -16,6 +16,6 @@ do
     rm -r ${toolchain}
   fi
 done
-tar cjf $TOP/ndk-aide-release/android-ndk-aide-linux-arm-$RELEASE.tar.bz2 android-ndk-aide/
+tar cjf $TOP/ndk-aide-release/android-ndk-aide-linux-arm-$RELEASE.tar.bz2 --hard-dereference android-ndk-aide/
 cp $TOP/busybox/busybox $TOP/ndk-aide-release/busybox-arm-$RELEASE
 cp $TOP/ndkinstall.sh $TOP/ndk-aide-release/ndkinstall.sh-$RELEASE
