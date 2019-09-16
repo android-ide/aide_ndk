@@ -1,66 +1,66 @@
 [submodule "platform/development"]
 	path = platform/development
-	url = git@github.com:android-ide/platform_development.git
+	url = git@github.com:am0n666/platform_development.git
 [submodule "platform/ndk"]
 	path = platform/ndk
-	url = git@github.com:android-ide/platform_ndk.git
+	url = git@github.com:am0n666/platform_ndk.git
 [submodule "platform/prebuilts/tools"]
 	path = platform/prebuilts/tools
-	url = git@github.com:android-ide/platform_prebuilts_tools.git
+	url = git@github.com:am0n666/platform_prebuilts_tools.git
 [submodule "ndk-prebuilt"]
 	path = ndk-prebuilt
-	url = git@github.com:android-ide/ndk-arm-prebuilt.git
+	url = git@github.com:am0n666/ndk-arm-prebuilt.git
 [submodule "platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.6"]
 	path = platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.6
-	url = git@github.com:android-ide/platform_prebuilts_gcc_linux-x86_host_i686-linux-glibc2.7-4.6.git
+	url = git@github.com:am0n666/platform_prebuilts_gcc_linux-x86_host_i686-linux-glibc2.7-4.6.git
 [submodule "busybox"]
 	path = busybox
-	url = git@github.com:android-ide/busybox.git
+	url = git@github.com:am0n666/busybox.git
 [submodule "toolchain/build"]
 	path = toolchain/build
-	url = git@github.com:android-ide/toolchain-build.git
+	url = git@github.com:am0n666/toolchain-build.git
 	branch = aide-ndk-gcc-4.9
 [submodule "toolchain/gcc"]
 	path = toolchain/gcc
-	url = git@github.com:android-ide/toolchain-gcc.git
+	url = git@github.com:am0n666/toolchain-gcc.git
 	branch = ndk-patches
 [submodule "toolchain/binutils"]
 	path = toolchain/binutils
-	url = git@github.com:android-ide/toolchain-binutils.git
+	url = git@github.com:am0n666/toolchain-binutils.git
 	branch = ndk-patches
 [submodule "toolchain/cloog"]
 	path = toolchain/cloog
-	url = git@github.com:android-ide/toolchain-cloog.git
+	url = git@github.com:am0n666/toolchain-cloog.git
 [submodule "toolchain/expat"]
 	path = toolchain/expat
-	url = git@github.com:android-ide/toolchain-expat.git
+	url = git@github.com:am0n666/toolchain-expat.git
 [submodule "toolchain/gdb"]
 	path = toolchain/gdb
-	url = git@github.com:android-ide/toolchain-gdb.git
+	url = git@github.com:am0n666/toolchain-gdb.git
 [submodule "toolchain/gmp"]
 	path = toolchain/gmp
-	url = git@github.com:android-ide/toolchain-gmp.git
+	url = git@github.com:am0n666/toolchain-gmp.git
 [submodule "toolchain/isl"]
 	path = toolchain/isl
-	url = git@github.com:android-ide/toolchain-isl.git
+	url = git@github.com:am0n666/toolchain-isl.git
 [submodule "toolchain/mpc"]
 	path = toolchain/mpc
-	url = git@github.com:android-ide/toolchain-mpc.git
+	url = git@github.com:am0n666/toolchain-mpc.git
 [submodule "toolchain/mpfr"]
 	path = toolchain/mpfr
-	url = git@github.com:android-ide/toolchain-mpfr.git
+	url = git@github.com:am0n666/toolchain-mpfr.git
 [submodule "toolchain/ppl"]
 	path = toolchain/ppl
-	url = git@github.com:android-ide/toolchain-ppl.git
+	url = git@github.com:am0n666/toolchain-ppl.git
 [submodule "toolchain/sed"]
 	path = toolchain/sed
-	url = git@github.com:android-ide/toolchain-sed.git
+	url = git@github.com:am0n666/toolchain-sed.git
 [submodule "toolchain/yasm"]
 	path = toolchain/yasm
-	url = git@github.com:android-ide/toolchain-yasm.git
+	url = git@github.com:am0n666/toolchain-yasm.git
 [submodule "platform/bionic"]
 	path = platform/bionic
-	url = git@github.com:android-ide/platform_bionic.git
+	url = git@github.com:am0n666/platform_bionic.git
 [submodule "platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8"]
 	path = platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8
-	url = git@github.com:android-ide/platform-prebuilts-gcc-linux-x86-host-x86_64-linux-glibc2.11-4.8.git
+	url = git@github.com:am0n666/platform-prebuilts-gcc-linux-x86-host-x86_64-linux-glibc2.11-4.8.git
